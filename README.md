@@ -1,7 +1,7 @@
 # Sparks-Project-3
 Project: Analysis of a Retail Store
 
-1.Conducted in-depth analysis of a US retail store's dataset using Python libraries 
+1. Conducted in-depth analysis of a US retail store's dataset using Python libraries 
 such as NumPy, Pandas, Matplotlib, Seaborn, and SciPy to perform Exploratory Data Analysis (EDA). 
 This involved comprehensive data visualization and the examination of multiple data attributes.
 
